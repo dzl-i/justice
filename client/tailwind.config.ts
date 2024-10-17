@@ -21,6 +21,12 @@ const config: Config = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        lightGreen: "var(--light-green)",
+        darkGreen: "var(--dark-green)",
+      },
+      fontFamily: {
+        spartan: ['"League Spartan"', 'sans-serif'],
+        lalezar: ["Lalezar"],
       },
     },
   },
